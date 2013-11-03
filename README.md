@@ -4,7 +4,7 @@ See '[Install and manage WordPress with Git](http://davidwinter.me/articles/2012
 
 ## Setup
 
-You can eithe run:
+You can either run:
 
 	rake
 
